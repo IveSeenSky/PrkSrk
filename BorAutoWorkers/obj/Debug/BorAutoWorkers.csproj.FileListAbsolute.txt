@@ -1,0 +1,162 @@
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe.config
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.pdb
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.AssemblyReference.cache
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\App.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_Content.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.cache
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.lref
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.g.resources
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.Properties.Resources.resources
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.GenerateResource.cache
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.CoreCompileInputs.cache
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.exe
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.pdb
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees.mdf
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees_log.ldf
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.dll
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.xml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoW.8FE327C3.Up2Date
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Styles\DataGridStyle.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.g.cs
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.baml
+C:\Users\berdn\source\repos\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees.mdf
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees_log.ldf
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe.config
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.pdb
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.dll
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.dll
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.xml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.xml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.resources.dll
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Styles\DataGridStyle.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\App.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_Content.g.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.cache
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.lref
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.baml
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.g.resources
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.Properties.Resources.resources
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.GenerateResource.cache
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.CoreCompileInputs.cache
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.exe
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.pdb
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees.mdf
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoEmployees_log.ldf
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe.config
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.exe
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\BorAutoWorkers.pdb
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.dll
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.dll
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.xml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\EntityFramework.SqlServer.xml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.resources.dll
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.AssemblyReference.cache
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Styles\DataGridStyle.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\App.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_Content.g.cs
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.cache
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers_MarkupCompile.lref
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\MainWindow.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddEmployeePage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddPositionsPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddRolesPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddStagesPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\AddPages\AddUsersPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\EmployeePage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\PositionsPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\RolesPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\StagesPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\DataGridPages\UsersPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\LoginPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuAdminFrame.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuFrames\MenuUserFrame.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\Pages\MenuPage.baml
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.g.resources
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.Properties.Resources.resources
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.GenerateResource.cache
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.CoreCompileInputs.cache
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.CopyComplete
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.exe
+D:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.pdb
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoWorkers.csproj.AssemblyReference.cache
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\BorAutoW.8FE327C3.Up2Date

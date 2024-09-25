@@ -1,0 +1,20 @@
+﻿BorAutoWorkers
+
+
+winexe
+C#
+.cs
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\obj\Debug\
+BorAutoWorkers
+none
+false
+DEBUG;TRACE
+E:\Коллекция практик\BorAutoWorkers\BorAutoWorkers\App.xaml
+16-148383598
+4-7680217
+311680418206
+201216472093
+MainWindow.xaml;Pages\AddPages\AddEmployeePage.xaml;Pages\AddPages\AddPositionsPage.xaml;Pages\AddPages\AddRolesPage.xaml;Pages\AddPages\AddStagesPage.xaml;Pages\AddPages\AddUsersPage.xaml;Pages\DataGridPages\EmployeePage.xaml;Pages\DataGridPages\PositionsPage.xaml;Pages\DataGridPages\RolesPage.xaml;Pages\DataGridPages\StagesPage.xaml;Pages\DataGridPages\UsersPage.xaml;Pages\LoginPage.xaml;Pages\MenuFrames\MenuAdminFrame.xaml;Pages\MenuFrames\MenuUserFrame.xaml;Pages\MenuPage.xaml;Styles\DataGridStyle.xaml;
+
+False
+

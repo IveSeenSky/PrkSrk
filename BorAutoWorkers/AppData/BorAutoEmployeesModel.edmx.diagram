@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="df5b930d759f46ca9ee04f15267e3385" Name="Diagram1">
+        <EntityTypeShape EntityType="BorAutoEmployeesModel.Employee" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BorAutoEmployeesModel.Positions" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BorAutoEmployeesModel.Roles" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BorAutoEmployeesModel.Stages" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BorAutoEmployeesModel.Users" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="BorAutoEmployeesModel.FK__Employee__positi__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="BorAutoEmployeesModel.FK__Positions__stage__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="BorAutoEmployeesModel.FK__Users__role_id__4CA06362" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,43 @@
+﻿<Page x:Class="BorAutoWorkers.Pages.MenuFrames.MenuUserFrame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BorAutoWorkers.Pages.MenuFrames"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MenuUserFrame">
+
+    <Page.Resources>
+        <Popup x:Key="MyPopupTables" Placement="Right" StaysOpen="False">
+            <StackPanel Background="Transparent">
+                <Button x:Name="optEmployeeBtn" Content="Сотрудники" Click="optEmployeeBtn_Click"/>
+                <Button x:Name="optPositionsBtn" Content="Должности" Click="optPositionsBtn_Click"/>
+                <Button x:Name="optRolesBtn" Content="Роли"  Click="optRolesBtn_Click"/>
+                <Button x:Name="optStagesBtn" Content="Этажи" Click="optStagesBtn_Click"/>
+            </StackPanel>
+        </Popup>
+        <Popup x:Key="MyPopupOtcheti" Placement="Right" StaysOpen="False">
+            <StackPanel Background="Transparent">
+                <Button x:Name="otchEmployeeBtn" Content="Сотрудники" Click="otchEmployeeBtn_Click"/>
+                <Button x:Name="otchPositionsBtn" Content="Должности" Click="otchPositionsBtn_Click"/>
+                <Button x:Name="otchStagesBtn" Content="Этажи" Click="otchStagesBtn_Click"/>
+            </StackPanel>
+        </Popup>
+        <Popup x:Key="MyPopupSearch" Placement="Right" StaysOpen="False">
+            <StackPanel Background="Transparent">
+                <Button x:Name="srchEmployeeBtn" Content="Сотрудники"/>
+                <Button x:Name="srchPositionsBtn" Content="Должности"/>
+                <Button x:Name="srchStagesBtn" Content="Этажи"/>
+            </StackPanel>
+        </Popup>
+    </Page.Resources>
+    <Grid>
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Button x:Name="pagesBtn" Content="Таблицы" Width="150" Height="25" Margin="5" Click="pagesBtn_Click"/>
+            <Button x:Name="otchBtn" Content="Отчеты"  Width="150" Height="25" Margin="5" Click="otchBtn_Click"/>
+            <Button x:Name="srchBtn" Content="Поиск"  Width="150" Height="25" Margin="5" Click="srchBtn_Click"/>
+            <Button x:Name="exitBtn" Content="Выход"  Width="150" Height="25" Margin="5" Click="exitBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
